@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Resistencias</string>
+    <string name="titulo">Escoja los colores de su Resistencia</string>
+    <string name="valoru">110</string>
+    <string name="valord">Ω</string>
+    <string name="valort">±5%</string>
+</resources>

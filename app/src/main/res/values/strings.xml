@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="titulo">LLENE LOS CAMPOS A CONTINUACIÓN:</string>
+    <string name="login">Usuario:</string>
+    <string name="password">Contraseña:</string>
+    <string name="correo">Correo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenimo">Femenino</string>
+    <string name="sexo">Sexo:</string>
+    <string name="nacimiento">Fecha de nacimiento:</string>
+    <string name="calendario">Calendario</string>
+    <string name="lugar">Lugar de nacimiento:</string>
+    <string name="cine">Ir a Cine</string>
+    <string name="musica">Escuchar Música</string>
+    <string name="hobbie">Hobbies:</string>
+    <string name="correr">Correr</string>
+    <string name="nadar">Nadar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="paxword">Repetir Contraseña:</string>
+    <string name="seleccion">dd/mm/yyyy</string>
+    <string name="resultados">Datos Ingresados:</string>
+
+    <string-array name="ciudades">
+        <item />
+        <item>Medellin</item>
+        <item>Rio Negro</item>
+        <item>Neiva</item>
+        <item>Pitalito</item>
+        <item>Isnos</item>
+        <item>Pereira</item>
+        <item>Armenia</item>
+        <item>Manizales</item>
+        <item>Marinilla</item>
+        <item>Itagui</item>
+        <item>Barbosa</item>
+        </string-array>
+</resources>
